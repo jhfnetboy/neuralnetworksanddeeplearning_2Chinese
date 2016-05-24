@@ -1,6 +1,8 @@
 # neuralnetworksanddeeplearning_2Chinese
-i try to translate the book: neuralnetworksanddeeplearning.com  into chinese
+I try to translate the book: neuralnetworksanddeeplearning.com  into chinese
+
 i am jhfnetboy,a engineer from China:)
+
 just for fun to learn NN or DL or ML knowledge:)
 
 In academic work, please cite this book as: Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015 
