@@ -14,8 +14,8 @@ just for fun to learn NN or DL or ML knowledge:)
 
 ##分工
 + 欢迎任何人加入,请先联系我确定分工, QQ:91377
-+ 目前分工:序言、第一章:jhfnetboy
-+ 第二章:gry
++ 目前分工:序言、第一章:jhfnetboy，yuliang
++ 第二章:gry,sirong
 + 第三章:暂定大美女
 
 
