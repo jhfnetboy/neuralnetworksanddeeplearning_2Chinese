@@ -1,21 +1,23 @@
 # neuralnetworksanddeeplearning_2Chinese
 ##背景
 想学习下神经网络和深度学习方面的知识,发现了国外的一本在线书籍,很不错
-作者原书网站链接:http://neuralnetworksanddeeplearning.com/
+##Original Author:<a href='http://michaelnielsen.org/'>Michael Nielsen</a>
 
-因此我想动手翻译过来,造福墙内:)
-欢迎fork,欢迎针对书本和DL相关知识进行任何讨论!
++ 作者原书网站链接:http://neuralnetworksanddeeplearning.com/
 
-I try to translate the book: neuralnetworksanddeeplearning.com  into chinese
++ 因此我想动手翻译过来,造福墙内:)
++ 欢迎fork,欢迎针对书本和DL相关知识进行任何讨论!
 
-i am jhfnetboy,a engineer from China:)
++ I try to translate the book: neuralnetworksanddeeplearning.com  into chinese
 
-just for fun to learn NN or DL or ML knowledge:)
++ i am jhfnetboy,a engineer from China:)
+
++ just for fun to learn NN or DL or ML knowledge:)
 
 ##分工
 + 欢迎任何人加入,请先联系我确定分工, QQ:91377
-+ 目前分工:序言、第一章:jhfnetboy
-+ 第二章:gry
++ 目前分工:序言、第一章:jhfnetboy，yuliang
++ 第二章:gry,sirong
 + 第三章:暂定大美女
 
 
